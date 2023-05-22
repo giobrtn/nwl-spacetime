@@ -8,4 +8,4 @@
 
 ##
 
-O projeto pode ser visualizado em: [https://giobrtn.github.io/projeto-rocketcoffee/](https://giobrtn.github.io/nwl-spacetime/)
+O projeto pode ser visualizado em: (https://giobrtn.github.io/nwl-spacetime/)
